@@ -31,3 +31,26 @@ span.underline {
 ul {
     padding-left: 15px;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #1BACE4;
+    color: #DDFCFF;
+    text-align: left;
+}
+
+tbody {
+    text-align: left;
+}
+
+.color {
+    background-color: #DDFCFF;
+}
+
+.last-row {
+    width: 50%;
+}
