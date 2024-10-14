@@ -1,13 +1,25 @@
 header {
     background-color: #4EA1FF;
     background-image: url(img/pattern.png);
-    background-size: cover;
+    background-size: 250px;
 }
 
-p {
+header img {
+    width: 150px;
+    margin-top: 20px;
+}
+
+.subtitle {
     color: #9B9A9D;
 }
 
 span {
     color: #61A9CC;
+}
+
+.captions {
+    font-style: italic;
+    color: black;
+    font-size: 0.8em;
+    margin-top: 0px;
 }
