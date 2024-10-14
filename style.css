@@ -13,7 +13,7 @@ header img {
     color: #9B9A9D;
 }
 
-span {
+.blue {
     color: #61A9CC;
 }
 
@@ -22,4 +22,8 @@ span {
     color: black;
     font-size: 0.8em;
     margin-top: 0px;
+}
+
+span.underline {
+    background-color: yellow;
 }
