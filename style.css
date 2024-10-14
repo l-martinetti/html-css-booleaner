@@ -54,3 +54,27 @@ tbody {
 .last-row {
     width: 50%;
 }
+
+.monitor { 
+    color: white;
+    font-size: 1.3em;
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    padding-right: 230px;
+    padding-bottom: 130px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 200px;
+}
+
+.graph {
+    color: white;
+    font-size: 1.5em;
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    padding-right: 230px;
+    padding-bottom: 130px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 200px;
+}
