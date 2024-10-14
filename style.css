@@ -27,3 +27,7 @@ header img {
 span.underline {
     background-color: yellow;
 }
+
+ul {
+    padding-left: 15px;
+}
